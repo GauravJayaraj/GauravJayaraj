@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravJayaraj
 - 👀 Oooo, that looks interesting get my sheep hat now! 
-- 🌱 I’m currently learning webdevelopment
+- 🌱 I’m currently learning ....
 - 📫 How to reach me [gauravjayaraj@gmail.com](mailto:gauravjayaraj@gmail.com)
 
 <!---
