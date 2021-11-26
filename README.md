@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravJayaraj
-- 👀 I’m interested in fullstack cloud development and ai ( although these are just mere terms for me right now)
+- 👀 Oooo, that looks interesting get my sheep hat now! 
 - 🌱 I’m currently learning webdevelopment
 - 📫 How to reach me [gauravjayaraj@gmail.com](mailto:gauravjayaraj@gmail.com)
 
