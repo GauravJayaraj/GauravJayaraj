@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravJayaraj
-- 👀 Oooo, that looks interesting get my sheep hat now! 
-- 🌱 I’m currently learning ....
+- 👀 C/C++, Go, Javascript and problem-solving( not the master at any but yeah I can try:-) )  
+- 🌱 I’m currently learning, to trust the universe.
 - 📫 How to reach me [gauravjayaraj@gmail.com](mailto:gauravjayaraj@gmail.com)
 
 <!---
